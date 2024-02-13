@@ -9,8 +9,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" width="45" height="45"/>
-<img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="php" width="45" height="45"/>
-<img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="php" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" alt="php" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/103/103093.png" alt="php" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="php" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="php" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="php" width="45" height="45"/>
