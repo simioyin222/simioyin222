@@ -1,6 +1,6 @@
-### Hi there 👋 My Name is Simi Oyin
+### Hi there 👋 my name is Simi Oyin
 
-<h1> About me </h1>
+<h1> About me 🦸🏾‍♂️ </h1>
 
 <p>I'm a junior software engineer transitioning from tech sales to programming, with a passion for technology and video games fueling my journey. Experienced in HTML5, CSS, React, .NET/C#, JavaScript, TDD and more, I excel in collaborative environments, driving projects with effective communication and innovative solutions. Having graduated from a software engineering bootcamp, I'm eager to contribute to and grow within coding and programming teams, where my love for building apps and solving problems thrives.</p>
 
