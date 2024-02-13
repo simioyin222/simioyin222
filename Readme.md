@@ -13,6 +13,19 @@
 <img src="https://cdn-icons-png.flaticon.com/128/103/103093.png" alt="php" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="php" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" width="45" height="45"/>
-<img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="php" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/2748/2748383.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/3815/3815250.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="45" height="45"/>
   
 </p>
+
+<h2> Connect with me 🧑🏿‍💼: </h2>
+<p align="left">
+<<a href="https://www.linkedin.com/in/simioyin/">
+  <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="width: 50px; height: 50px;">
+</a>
+</p>
+
+![Simi Oyin Github Stats](https://github-readme-stats.vercel.app/apiusername=simioyin222_icons=true&theme=radical) 
