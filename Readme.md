@@ -12,7 +12,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" alt="php" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/103/103093.png" alt="php" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="php" width="45" height="45"/>
-<img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="php" width="45" height="45"/>
   
 </p>
