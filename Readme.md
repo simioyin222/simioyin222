@@ -18,6 +18,13 @@
 <img src="https://cdn-icons-png.flaticon.com/128/3815/3815250.png" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5847/5847514.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/888/888835.png" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/128/7858/7858975.png" width="45" height="45"/>
+
   
 </p>
 
