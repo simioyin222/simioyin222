@@ -23,7 +23,7 @@
 
 <h2> Connect with me 🧑🏿‍💼: </h2>
 <p align="left">
-<<a href="https://www.linkedin.com/in/simioyin/">
+<a href="https://www.linkedin.com/in/simioyin/">
   <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="width: 50px; height: 50px;">
 </a>
 </p>
