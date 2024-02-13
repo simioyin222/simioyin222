@@ -28,4 +28,4 @@
 </a>
 </p>
 
-[Simi Oyin Github Stats](https://github-readme-stats.vercel.app/apiusername=simioyin222_icons=true&theme=radical) 
+![Simi Oyin GitHub stats](https://github-readme-stats.vercel.app/api?username=simioyin222&hide=contribs,prs)  
